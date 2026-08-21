@@ -1,0 +1,42 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+*.nupkg
+*.snupkg
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+
+## NuGet
+**/packages/*
+*.nuget.props
+*.nuget.targets
+
+## IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+## OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+## Project specific
+*.exe
+*.dll
+*.pdb
+publish/
+.nc
