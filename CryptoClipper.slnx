@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src\CryptoClipper\CryptoClipper.csproj" />
+  <Project Path="Build.csproj" />
+</Solution>
